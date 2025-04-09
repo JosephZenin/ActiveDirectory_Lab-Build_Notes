@@ -79,6 +79,6 @@ _Add screenshots of Server Manager, DNS configs, ADUC (`dsa.msc`), GPO Editor, e
 
 > 🔄 Currently Active  
 > 📅 Last Updated: `April 8, 2025`  
-> 🧍 Operative: `Joseph Romero (callsign: Big Boss)`
+> 🧍 Operative: `Joseph Romero (callsign: Active Snake)`
 
 ---
