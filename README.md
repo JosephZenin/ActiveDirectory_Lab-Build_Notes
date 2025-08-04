@@ -23,9 +23,9 @@ _A Tactical Deployment of Windows-Based Lab Environments for Active Directory Ma
 
 ## 📚 Learning Sources
 
-- `Practical Windows Forensics (No Starch Press)`
-- `John Hammond AD Lab Guide`
-- `TryHackMe - Windows Fundamentals`
+- *Practical Windows Forensics* (No Starch Press)
+- *John Hammond AD Lab Guide*
+- *TryHackMe – Windows Fundamentals*
 - [Microsoft Docs](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/)
 
 ---
